@@ -1,0 +1,9 @@
+.about{
+	position:fixed;
+	top:150px;
+	left:25px;
+	color: #074590;
+	font-weight: bold;
+	font-family:Tahoma,Geneva,Kalimati,sans-serif;
+	font-size:15;
+}

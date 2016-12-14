@@ -1,0 +1,227 @@
+/************* CLASS *************/
+#nujhat{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	border: 3px solid green; 
+	position: absolute;
+	top:125px;
+	left:30%;
+	background:red; 
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+#nujhat:hover{
+	position:absolute;
+	width: 325px;
+	height: 325px;
+}
+
+.nujhat span.text-content {
+  background: rgba(0,0,0,0);
+  color:black;
+  cursor: pointer;
+  display: relative;
+  left: 41%;
+  position: absolute;
+  top: 380;
+  width: 150px;
+}
+
+.nujhat span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.nujhat span.text-content {
+  opacity: 0;
+}
+
+.nujhat:hover span.text-content {
+  opacity: 1;
+}
+
+
+
+#zannatul{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	border: 3px solid green; 
+	position: absolute;
+	top:460px;
+	left:33%;
+	background:red; 
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+#zannatul:hover{
+	position:absolute;
+	width: 275px;
+	height: 275px;
+}
+
+.nujhat span.text-content {
+  background: rgba(0,0,0,0);
+  color:black;
+  cursor: pointer;
+  display: relative;
+  left: 41%;
+  position: absolute;
+  top: 380;
+  width: 150px;
+}
+
+.nujhat span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.nujhat span.text-content {
+  opacity: 0;
+}
+
+.nujhat:hover span.text-content {
+  opacity: 1;
+}
+
+#omid{
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	border: 3px solid green; 
+	position: absolute;
+	top:125px;
+	left:40%;
+	background:red; 
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+
+.omid span.text-content {
+  background: rgba(0,0,0,0);
+  color:black;
+  cursor: pointer;
+  display: relative;
+  left: 46.5%;
+  position: absolute;
+  top: 270;
+  width: 150px;
+}
+
+.omid span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.omid span.text-content {
+  opacity: 0;
+}
+
+.omid:hover span.text-content {
+  opacity: 1;
+}
+
+#omid:hover{
+	position:absolute;
+	width: 225px;
+	height: 225px;
+}
+
+#bashar{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	border: 3px solid green; 
+	position: absolute;
+	top:375px;
+	left:43.5%;
+	background:red; 
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+
+#bashar:hover{
+	position:absolute;
+	width: 175px;
+	height: 175px;
+}
+
+.omid span.text-content {
+  background: rgba(0,0,0,0);
+  color:black;
+  cursor: pointer;
+  display: relative;
+  left: 46.5%;
+  position: absolute;
+  top: 270;
+  width: 150px;
+}
+
+.omid span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.omid span.text-content {
+  opacity: 0;
+}
+
+.omid:hover span.text-content {
+  opacity: 1;
+}
+
+#projectcord{
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border: 3px solid green; 
+	position: absolute;
+	top:575px;
+	left:40%;
+	background:red; 
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+
+#projectcord:hover{
+	position:absolute;
+	width: 125px;
+	height: 125px;
+}
+
+
+s
+
+
+
+

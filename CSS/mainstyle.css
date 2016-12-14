@@ -1,0 +1,83 @@
+/************* CLASS *************/
+*{
+	font-weight: bold;
+}
+body {
+	background: url(../Images/background.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	-moz-background-size: cover;
+ 	-o-background-size: cover;
+ 	background-size: cover;
+ 	z-index:-1000;
+}
+.top_strip{
+	position:fixed;
+	top:0%;
+	left:0%;
+    width:100%;
+    height:10px;
+    background:#074590;
+    z-index:-1;
+    border-color:#074590;
+}
+
+.menu_bar{
+	position:fixed;
+	top:10px;
+	left:0%;
+    width:100%;
+    height:100px;
+    background:linear-gradient(to bottom, lightgrey, darkgrey);;
+}
+
+.container{
+	position:fixed;
+	right:0%;
+	top:37px;
+}
+
+.container a{
+	font-family:Tahoma,Geneva,Kalimati,sans-serif;
+	font-size: 15;
+	color: #074590;
+	font-weight: bold;
+}
+
+.company_name{
+	position:fixed;
+	top:10px;
+	left: 190px;
+	font-family:Tahoma,Geneva,Kalimati,sans-serif;
+	font-size: 50;
+	color:#074590;
+	text-shadow: 1px 1px dimgrey;
+}
+
+.nav-pills>li.active>a {
+	background-color:#074590;
+}
+
+.copy_right{
+	position:fixed;
+	bottom:0;
+	left:10px;
+	font-size:10;
+	font-color:silver;
+}
+
+/************** ID **************/
+
+#homepage_logo{
+	position:fixed;
+	top:0px;
+	left: 30px;
+	width:160px;
+	height:160px;	
+}
+
+
+
+
+
+
+

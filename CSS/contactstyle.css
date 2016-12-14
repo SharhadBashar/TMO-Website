@@ -1,0 +1,22 @@
+#phone, #email, #link, #address{	
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	text-align:center;
+	left:30%;
+	top:330px;
+	-webkit-transition: all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	transition: all 1s ease;
+}
+
+
+#phone:hover, #email:hover, #link:hover, #address:hover {
+	position: absolute;
+	width:175px;
+	height: 175px;
+
+	
+}
